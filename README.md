@@ -18,9 +18,9 @@
 
 -After all the softwares are successfully installed, place the 'pen_size.py' file and the 'input.jpg' image into your home directory in the Ubuntu system.
 
--Run the following command on the terminal to get the output:
+-Run the following command on the terminal and after getting outputs keep pressing 'ENTER' to get the outputs:
   -> python pen_size.py --image input.jpg --width 2.3
 
--There are basically two runtime commands the first one is after '--image' above i.e. the image path and second one is after '--width' the width of the reference object which is known before hand.
+-There are basically two runtime commands the first one is after '--image' above i.e. the image path and second one is after '--width' the width of the reference object which is 2.3cm in this case.
 
 -For the input images, the angle with the plane of objects should be a perfect 90-degree angle “looking down” (like a birds-eye-view) at the objects or the outputs will come incorrect at times.
