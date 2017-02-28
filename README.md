@@ -24,4 +24,8 @@
 
 -There are basically two runtime commands the first one is after '--image' above i.e. the image path and second one is after '--width' the width of the reference object which is 2.3cm in this case.
 
+-The outputs will show all the dimensions of the objects.
+
 -For the input images, the angle with the plane of objects should be a perfect 90-degree angle “looking down” (like a birds-eye-view) at the objects or the outputs will come incorrect at times.
+
+-Also in the images, the left most object should be the reference object.
